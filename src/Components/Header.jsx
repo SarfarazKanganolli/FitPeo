@@ -1,5 +1,5 @@
 import React from 'react'
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+import { Avatar, AvatarFallback, AvatarImage } from "../Components/ui/avatar"
 import Hamburger from "@/assets/hamburger.svg"
 import Cross from "@/assets/cross.svg"
 
