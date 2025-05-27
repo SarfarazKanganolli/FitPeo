@@ -4,7 +4,7 @@ import Body from "@/assets/body.png"
 import Arrow from "@/assets/arrow.svg"
 
 import organs from '@/data/anatomy.js'
-import { Progress } from "@/components/ui/progress"
+import { Progress } from "../../ui/avatar"
 
 const AnatomySection = () => {
 
